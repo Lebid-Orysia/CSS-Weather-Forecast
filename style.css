@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.raleway-font {
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    color: #ffff;
+}
+
+main {
+    padding: 80px;
+    background-color: #2B81AC;
+    border: 20px solid rgb(65, 93, 137);
+}
+
+h1 {
+    color: #ffff;
+    margin-bottom: 40px;
+}
+
+ul {
+    font-size: 0;
+    width: 100%;
+    text-align: center;
+    list-style: none;
+}
+
+li {
+    display: inline-block;
+    align-content: center;
+    cursor: pointer;
+}
+
+.box-lisbon {
+    width: 50%;
+    background-color: #3399CC;
+    height: 150px;
+}
+
+.box-paris {
+    width: 25%;
+    height: 150px;
+    background-color: #33CCCc;
+}
+
+.box-belgrade {
+    width: 25%;
+    height: 150px;
+    background-color: #996699;
+}
+
+.box-venice {
+    width: 25%;
+    height: 150px;
+    background-color: #C24747;
+}
+
+.box-tel-avive {
+    width: 25%;
+    height: 150px;
+    background-color: #E2674A;
+}
+
+.box-cair {
+    width: 25%;
+    height: 150px;
+    background-color: #FFCC66;
+}
+
+.box-new-york {
+    width: 25%;
+    height: 150px;
+    background-color: #99CC99;
+}
+
+.box-new-delhi {
+    width: 25%;
+    height: 150px;
+    background-color: #669999;
+}
+
+.box-san-francisco {
+    width: 50%;
+    height: 150px;
+    background-color: #CC6699;
+}
+
+.box-tokyo {
+    width: 25%;
+    height: 150px;
+    background-color: #339966;
+}
+
+.box-sydney {
+    width: 100%;
+    height: 150px;
+    background-color: #666699;
+}
+
+p {
+    margin-top: 60px;
+}
